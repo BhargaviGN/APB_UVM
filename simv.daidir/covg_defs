@@ -1,0 +1,75 @@
+global coverage_group 0 $unit::apb_subscriber::cover_bus __coverage_apb_subscriber.cover_bus unused_apb_subscriber_cover_bus_loop_label $unit 0 1 0 1 $unit::/apps/vcsmx/vcs/S-2021.09//etc/uvm-1.2/src/macros/snps_macros.svp::/apps/vcsmx/vcs/S-2021.09//etc/uvm-1.2/src/macros/uvm_callback_defines.svh...@951036517 0  ( 0 
+)
+ 1 1
+ 30 /home/runner/apb_subscriber.sv
+ 8 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+0
+0
+ 4 addr 9 0 0 0 0 0 136 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn 136 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 1 0 1 1 1 a 10 0 0 1 0 0 0 0 0 0 0 0 0 0 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_0 0 -1 0 0 -1 0 0 1 1 1 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_1 0 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_2 0 0 0 0 0
+ 0
+
+ 4 data 12 0 0 0 0 0 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_3 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_3 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 1 0 1 1 1 d 13 0 0 1 0 0 0 0 0 0 0 0 0 0 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_0 0 -1 0 0 -1 0 0 1 1 1 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_1 0 138 _vcs_unit__951036517_apb_subscriber_11_0::_vcs_unit__951036517_apb_subscriber_11_0__vcs_unit__951036517_apb_subscriber_11_0_cover_bus_fn_2 0 0 0 0 0
+ 0
+
+end_coverage_group
